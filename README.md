@@ -21,7 +21,17 @@ I am a passionate mobile app developer with a strong focus on creating seamless,
 - **Languages**: Dart, Java, Kotlin  
 - **Frameworks & Tools**: Flutter, Firebase, REST API  
 - **State Management**: Riverpod, Provider, Flutter Hooks  
-- **UI/UX Tools**: Adobe XD, Figma  
+- **UI/UX Tools**: Adobe XD, Figma
+
+# Hi, I'm [Your Name] 👋
+
+### 📈 GitHub Stats
+
+![Stats](https://github-readme-stats.vercel.app/api?username=sutariyaharsh&show_icons=true&count_private=true&theme=tokyonight)
+
+![Streak](https://github-readme-streak-stats.herokuapp.com/?user=sutariyaharsh&theme=tokyonight)
+
+![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sutariyaharsh&layout=compact&theme=tokyonight)
 
 ## 📬 Let's Collaborate  
 Have an exciting project in mind? Let’s bring your ideas to life.  
