@@ -104,8 +104,7 @@ Results-driven Flutter developer specializing in **rapid mobile app development*
 
 ## 📈 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=sutariyaharsh&show_icons=true&theme=radical)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sutariyaharsh&layout=compact&theme=radical)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=sutariyaharsh&theme=radical)](https://git.io/streak-stats)
 
 ---
 
