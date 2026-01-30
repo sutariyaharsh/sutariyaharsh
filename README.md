@@ -61,28 +61,6 @@ Results-driven Flutter developer specializing in **rapid mobile app development*
 | 🔥 Backend Expertise | 10+ apps with Firebase/Supabase |
 | 📱 User Impact | 50K+ combined users served |
 
----
-
-## 🚀 Featured Work
-
-### 📱 E-Commerce App
-**Stack**: Flutter • Firebase • Stripe  
-✅ 50K+ products • Payment gateway • Real-time inventory • 15K+ downloads
-
-### 🏥 Healthcare System
-**Stack**: Flutter • Supabase • WebRTC  
-✅ Appointment scheduling • Video consultations • 1000+ daily bookings • 98% uptime
-
-### 💬 Social Platform
-**Stack**: Flutter • Firebase • AI Moderation  
-✅ Real-time chat • Media uploads • 25K+ users • Sub-2s load times
-
-### 🔧 Lovable.dev Rescue
-**Service**: MVP to Production  
-✅ Debugged prototype • Clean Architecture • App Store deployment • Analytics integration
-
----
-
 ## 💡 Why Work With Me?
 
 ✅ **Fast Delivery** - AI-powered workflows without quality compromise  
