@@ -78,14 +78,6 @@ Results-driven Flutter developer specializing in **rapid mobile app development*
 
 **Standards**: Clean code • Git workflow • Automated testing • CI/CD • Security best practices
 
----
-
-## 📈 GitHub Stats
-
-[![GitHub Streak](https://streak-stats.demolab.com/?user=sutariyaharsh&theme=radical)](https://git.io/streak-stats)
-
----
-
 ## 🤝 Let's Build Together
 
 **I can help with:**  
